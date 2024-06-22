@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title>Nagalakshmiarepalli</title>
+    </head>
+    <body>
+        <header>
+            <h1>Nagalakshmiarepalli</h1>
+        </header>
+        <img src="C:\Users\Kishore\Desktop\NAGA\WhatsApp Image 2024-06-19 at 09.38.01_94bf52ee.jpg"
+        style="margin:5px;border:100px;width:200px;height:300px;">
+        <img src="C:\Users\Kishore\Desktop\NAGA\WhatsApp Image 2024-06-19 at 13.03.52_6a454c53.jpg"
+        style="margin:5px;border:100px;width:200px;height:300px;">
+    </body>
+</html>
